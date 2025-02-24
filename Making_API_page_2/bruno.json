@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Making_API_page_2",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
